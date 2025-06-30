@@ -1,5 +1,5 @@
 {
-  "name": "RAMIRO1982/post-read-more",
+  "name": "ramiro1982/post-read-more",
   "description": "Blade + Alpine.js component to truncate post text with a 'Read more…' button",
   "type": "library",
   "license": "MIT",
