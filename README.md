@@ -10,7 +10,7 @@ overflows. Useful for blogs, feeds, or article previews.
 Install the package via Composer:
 
 ```bash
-composer require ramiro1982/post-read-more:^1.0.1
+composer require ramiro1982/post-read-more:^1.0.2
 ```
 
 ## 🧠 Requirements

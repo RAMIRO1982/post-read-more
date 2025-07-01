@@ -24,7 +24,7 @@
         <button
                 x-show="showButton && !expanded"
                 @click="expanded = true"
-                class="mt-3 text-sm text-gray-500 hover:text-blue-500 underline underline-offset-2"
+                class="mt-3 text-sm text-gray-500 dark:text-gray-400 hover:text-blue-500 hover:underline underline-offset-2 hover:text-blue-500"
         >
             {{ __('Read more') }}…
         </button>
