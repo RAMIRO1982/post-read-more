@@ -10,7 +10,7 @@ overflows. Useful for blogs, feeds, or article previews.
 Install the package via Composer:
 
 ```bash
-composer require tuvendor/post-read-more
+composer require ramiro1982/post-read-more:^1.0.1
 ```
 
 ## 🧠 Requirements
